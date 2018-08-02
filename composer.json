@@ -1,0 +1,22 @@
+{
+    "name": "mvs/mappingdb",
+    "description": "teste",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Walderlan Sena",
+            "email": "senawalderlan@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "php": "^7.0",
+        "kherge/box": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}

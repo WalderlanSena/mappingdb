@@ -1,0 +1,11 @@
+{
+    "files": [
+      "index.php"
+    ],
+    "directories": [
+        "src"
+    ],
+    "main": "index.php",
+    "output": "map.phar",
+    "stub": true
+}
